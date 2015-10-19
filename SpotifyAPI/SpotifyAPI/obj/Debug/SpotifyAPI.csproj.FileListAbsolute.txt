@@ -11,3 +11,16 @@ c:\users\trekele\documents\visual studio 2013\Projects\SpotifyAPI\SpotifyAPI\obj
 c:\users\trekele\documents\visual studio 2013\Projects\SpotifyAPI\SpotifyAPI\bin\Debug\NAudio.dll
 c:\users\trekele\documents\visual studio 2013\Projects\SpotifyAPI\SpotifyAPI\bin\Debug\NAudio.xml
 C:\Users\Trekele\Documents\Visual Studio 2013\Projects\SpotifyAPI\SpotifyAPI\obj\Debug\SpotifyAPI.mainForm.resources
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\bin\Debug\SpotifyAPI.exe.config
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\obj\Debug\SpotifyAPI.exe
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\obj\Debug\SpotifyAPI.pdb
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\obj\Debug\SpotifyAPI.csprojResolveAssemblyReference.cache
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\bin\Debug\SpotifyAPI.exe
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\bin\Debug\SpotifyAPI.pdb
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\bin\Debug\NAudio.dll
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\bin\Debug\NAudio.xml
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\obj\Debug\SpotifyAPI.mainForm.resources
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\obj\Debug\SpotifyAPI.Properties.Resources.resources
+C:\Users\Trekele\Documents\GitHub\Spotify-API-Practice\SpotifyAPI\SpotifyAPI\obj\Debug\SpotifyAPI.csproj.GenerateResource.Cache

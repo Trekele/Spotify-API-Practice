@@ -69,6 +69,7 @@
             this.pbArtist.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbArtist.TabIndex = 3;
             this.pbArtist.TabStop = false;
+            this.pbArtist.LoadCompleted += new System.ComponentModel.AsyncCompletedEventHandler(this.pbArtist_LoadCompleted);
             // 
             // mainForm
             // 
